@@ -29,6 +29,15 @@
     , "feedparser": "1.1.x"
     , "html-to-text": "1.5.x"
 	, "npm":""
+    , "bignumber.js": "^2.1.0"
+    , "deferred": "^0.7.2"
+    , "merge": "^1.2.0"
+    , "protobufjs": "^5.0.0"
+    , "steam": "^1.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.5.3",
+    "should": "^8.4.0"
   },
   "main": "discord_bot.js"
 }
